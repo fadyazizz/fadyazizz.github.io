@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/fadyazizz.github.io/static/css/main.a01e9f46.chunk.css",
+    "main.js": "/fadyazizz.github.io/static/js/main.c56ca14d.chunk.js",
+    "main.js.map": "/fadyazizz.github.io/static/js/main.c56ca14d.chunk.js.map",
+    "runtime-main.js": "/fadyazizz.github.io/static/js/runtime-main.1c3490f2.js",
+    "runtime-main.js.map": "/fadyazizz.github.io/static/js/runtime-main.1c3490f2.js.map",
+    "static/js/2.06ff5f3f.chunk.js": "/fadyazizz.github.io/static/js/2.06ff5f3f.chunk.js",
+    "static/js/2.06ff5f3f.chunk.js.map": "/fadyazizz.github.io/static/js/2.06ff5f3f.chunk.js.map",
+    "static/js/3.88e5df73.chunk.js": "/fadyazizz.github.io/static/js/3.88e5df73.chunk.js",
+    "static/js/3.88e5df73.chunk.js.map": "/fadyazizz.github.io/static/js/3.88e5df73.chunk.js.map",
+    "index.html": "/fadyazizz.github.io/index.html",
+    "static/css/main.a01e9f46.chunk.css.map": "/fadyazizz.github.io/static/css/main.a01e9f46.chunk.css.map",
+    "static/js/2.06ff5f3f.chunk.js.LICENSE.txt": "/fadyazizz.github.io/static/js/2.06ff5f3f.chunk.js.LICENSE.txt",
+    "static/media/World.3c219f11.jpg": "/fadyazizz.github.io/static/media/World.3c219f11.jpg",
+    "static/media/agreement.d91c6b0d.jpg": "/fadyazizz.github.io/static/media/agreement.d91c6b0d.jpg",
+    "static/media/appraise1.f738bc4c.jpg": "/fadyazizz.github.io/static/media/appraise1.f738bc4c.jpg",
+    "static/media/arabInvest.7c872978.jpg": "/fadyazizz.github.io/static/media/arabInvest.7c872978.jpg",
+    "static/media/arabUnion1.23271888.jpg": "/fadyazizz.github.io/static/media/arabUnion1.23271888.jpg",
+    "static/media/bank.0fdaa358.jpg": "/fadyazizz.github.io/static/media/bank.0fdaa358.jpg",
+    "static/media/cv.css": "/fadyazizz.github.io/static/media/landing.b3b6bedd.png",
+    "static/media/consultant.ff4e1002.jpg": "/fadyazizz.github.io/static/media/consultant.ff4e1002.jpg",
+    "static/media/court.a73cad53.jpg": "/fadyazizz.github.io/static/media/court.a73cad53.jpg",
+    "static/media/economic.ccbeacb9.jpg": "/fadyazizz.github.io/static/media/economic.ccbeacb9.jpg",
+    "static/media/expertReal.246930f8.jpg": "/fadyazizz.github.io/static/media/expertReal.246930f8.jpg",
+    "static/media/gears1.60e51b97.jpg": "/fadyazizz.github.io/static/media/gears1.60e51b97.jpg",
+    "static/media/instagram.e719d8b2.png": "/fadyazizz.github.io/static/media/instagram.e719d8b2.png",
+    "static/media/integration.6b128a31.jpg": "/fadyazizz.github.io/static/media/integration.6b128a31.jpg",
+    "static/media/intellect.86abfe32.jpg": "/fadyazizz.github.io/static/media/intellect.86abfe32.jpg",
+    "static/media/logo.6ce24c58.svg": "/fadyazizz.github.io/static/media/logo.6ce24c58.svg",
+    "static/media/nature.093f471d.jpg": "/fadyazizz.github.io/static/media/nature.093f471d.jpg",
+    "static/media/property.653935d6.jpg": "/fadyazizz.github.io/static/media/property.653935d6.jpg",
+    "static/media/realestate.eab34f1b.jpg": "/fadyazizz.github.io/static/media/realestate.eab34f1b.jpg",
+    "static/media/twitter.28b4dce4.png": "/fadyazizz.github.io/static/media/twitter.28b4dce4.png",
+    "static/media/water.09d3277d.jpg": "/fadyazizz.github.io/static/media/water.09d3277d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c3490f2.js",
+    "static/js/2.06ff5f3f.chunk.js",
+    "static/css/main.a01e9f46.chunk.css",
+    "static/js/main.c56ca14d.chunk.js"
+  ]
+}
